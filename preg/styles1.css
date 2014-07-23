@@ -21,22 +21,7 @@
 	 height: 2188px; 
 	 overflow: hidden;
 	 z-index:0;
-	}
-
- #wrap 
-{ 
-	
-    left: 0px; 
-	 top: 0px; 
-	 position: relative; 
-	 margin-left: auto; 
-	 margin-right: auto; 
-	 width: 1000px;
-	 height: 700px; 
-	 overflow: hidden;
-	 
-	 
-	}
+	} 
 
  #Background 
 { 
@@ -69,7 +54,15 @@
 	 z-index:3;
 } 
 
-
+ #Layer7copy_1 
+{ 
+	 left: 65px; 
+	 top: 1622px; 
+	 position: absolute; 
+	 width: 857px;
+	 height: 194px;
+	 z-index:4;
+} 
 
  #Layer1copy 
 { 
@@ -165,30 +158,26 @@
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 	font-weight:bold;
-}
-#layer_150 > a
-{
-	color:#493913;
-}
+} 
 
  #VectorSmartObject 
 { 
 	 left: 112px; 
-	 top: 627px; 
-	 position: relative; 
+	 top: 897px; 
+	 position: absolute; 
 	 width: 140px;
 	 height: 140px;
-	 z-index:3;
+	 z-index:13;
 } 
 
  #risks69 
 { 
 	 left: 843px; 
-	 top: 765px; 
-	 position: relative; 
+	 top: 1020px; 
+	 position: absolute; 
 	 width: 47px;
 	 height: 18px;
-	 z-index:3;
+	 z-index:14;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
@@ -197,11 +186,11 @@
  #risks78 
 { 
 	 left: 790px; 
-	 top: 753px; 
-	 position: relative; 
+	 top: 1013px; 
+	 position: absolute; 
 	 width: 40px;
 	 height: 27px;
-	 z-index:3;
+	 z-index:15;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 35px;
@@ -212,11 +201,11 @@
  #numberofmotherpr 
 { 
 	 left: 291px; 
-	 top: 765px; 
-	 position: relative; 
+	 top: 1031px; 
+	 position: absolute; 
 	 width: 494px;
 	 height: 19px;
-	 z-index:3;
+	 z-index:16;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 19px;
@@ -228,11 +217,11 @@
  #risks66 
 { 
 	 left: 700px; 
-	 top: 720px; 
-	 position: relative; 
+	 top: 999px; 
+	 position: absolute; 
 	 width: 46px;
 	 height: 18px;
-	 z-index:3;
+	 z-index:17;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
@@ -241,11 +230,11 @@
  #risks65 
 { 
 	 left: 648px; 
-	 top: 710px; 
-	 position: relative; 
+	 top: 990px; 
+	 position: absolute; 
 	 width: 39px;
 	 height: 28px;
-	 z-index:3;
+	 z-index:18;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 35px;
@@ -254,11 +243,11 @@
  #numberofmotherswell 
 { 
 	 left: 291px; 
-	 top: 720px; 
-	 position: relative; 
+	 top: 1002px; 
+	 position: absolute; 
 	 width: 348px;
 	 height: 20px;
-	 z-index:3;
+	 z-index:19;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 19px;
@@ -268,31 +257,31 @@
  #Layer2 
 { 
 	 left: 487px; 
-	 top: 580px; 
-	 position: relative; 
+	 top: 861px; 
+	 position: absolute; 
 	 width: 128px;
 	 height: 129px;
-	 z-index:3;
+	 z-index:20;
 } 
 
  #Layer1copy_0 
 { 
 	 left: 291px; 
-	 top: 450px; 
-	 position: relative; 
+	 top: 865px; 
+	 position: absolute; 
 	 width: 129px;
 	 height: 129px;
-	 z-index:3;
+	 z-index:21;
 } 
 
  #ReportedRisks 
 { 
 	 left: 301px; 
-	 top: 350px; 
-	 position: relative; 
+	 top: 902px; 
+	 position: absolute; 
 	 width: 107px;
 	 height: 17px;
-	 z-index:3;
+	 z-index:22;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 15px;
@@ -302,11 +291,11 @@
  #layer_129 
 { 
 	 left: 322px; 
-	 top: 350px; 
-	 position: relative; 
+	 top: 915px; 
+	 position: absolute; 
 	 width: 60px;
 	 height: 27px;
-	 z-index:3;
+	 z-index:23;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 35px;
@@ -316,11 +305,11 @@
  #layer_89 
 { 
 	 left: 343px; 
-	 top: 370px; 
-	 position: relative; 
+	 top: 956px; 
+	 position: absolute; 
 	 width: 36px;
 	 height: 14px;
-	 z-index:3;
+	 z-index:24;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
@@ -330,11 +319,11 @@
  #ResultsReported 
 { 
 	 left: 495px; 
-	 top: 300px; 
-	 position: relative; 
+	 top: 903px; 
+	 position: absolute; 
 	 width: 115px;
 	 height: 16px;
-	 z-index:3;
+	 z-index:25;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 14px;
@@ -344,11 +333,11 @@
  #layer_89_0 
 { 
 	 left: 528px; 
-	 top: 300px; 
-	 position: relative; 
+	 top: 915px; 
+	 position: absolute; 
 	 width: 39px;
 	 height: 27px;
-	 z-index:3;
+	 z-index:26;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 35px;
@@ -357,11 +346,11 @@
  #layer_75 
 { 
 	 left: 532px; 
-	 top: 315px; 
-	 position: relative; 
+	 top: 958px; 
+	 position: absolute; 
 	 width: 36px;
 	 height: 14px;
-	 z-index:3;
+	 z-index:27;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
@@ -369,38 +358,32 @@
 
  #lmpgraph 
 { 
-	  
+	 left: 555px; 
 	 top: 611px; 
-	 position: relative; 
-	 width: 40%;
-	 padding-left:80px;
-	 float:left;
+	 position: absolute; 
+	 width: 365px;
 	 height: 220px;
-	 z-index:3;
+	 z-index:28;
 } 
 
  #monthlyavggrph 
 { 
-	 
+	 left: 149px; 
 	 top: 590px; 
-	 position: relative; 
-	 width: 40%;
-	float:left;
+	 position: absolute; 
+	 width: 362px;
 	 height: 241px;
-	 z-index:3;
-	padding-left:10px;
+	 z-index:28;
 } 
 
  #LMPinrelativetopregn 
 { 
-	 
-	top: 575px; 
-	position: relative; 
-	width: 50%;
-	float:left;
-	text-align: center;
-	height: 17px;
-	z-index:3;
+	 left: 579px; 
+	 top: 575px; 
+	 position: absolute; 
+	 width: 326px;
+	 height: 17px;
+	 z-index:28;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:lighter;
 	font-size: 18px;
@@ -409,14 +392,12 @@
 
  #MonthlyPregnancyAvg9 
 { 
-	  
-	top: 568px; 
-	position: relative; 
-	width: 50%;
-	float:right;
-	text-align: center;
-	height: 24px;
-	z-index:3;
+	 left: 228px; 
+	 top: 568px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 24px;
+	 z-index:28;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:lighter;
 	font-size: 20px;
@@ -430,175 +411,154 @@
 		
 } 
 
-
-
-
-
-
-/*********************/
-
  #Layer3 
 { 
 	 left: 395px; 
-	 top: 456px; 
-	 position: relative; 
+	 top: 1086px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:32;
 } 
 
  #Layer1copy_1 
 { 
 	 left: 468px; 
-	 top: 380px; 
-	 position: relative; 
+	 top: 1087px; 
+	 position: absolute; 
 	 width: 68px;
 	 height: 78px;
-	 z-index:3;
+	 z-index:33;
 } 
 
  #Layer1copy2 
 { 
 	 left: 541px; 
-	 top: 305px; 
-	 position: relative; 
+	 top: 1089px; 
+	 position: absolute; 
 	 width: 68px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:34;
 } 
 
  #Layer1copy6 
 { 
 	 left: 613px; 
-	 top: 229px; 
-	 position: relative; 
+	 top: 1089px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:35;
 } 
 
  #Layer1copy7 
 { 
 	 left: 650px; 
-	 top: 218px; 
-	 position: relative; 
+	 top: 1152px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:36;
 } 
 
  #Layer1copy8 
 { 
 	 left: 686px; 
-	 top: 80px; 
-	 position: relative; 
+	 top: 1089px; 
+	 position: absolute; 
 	 width: 68px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:37;
 } 
 
  #Layer1copy3 
 { 
 	 left: 431px; 
-	 top: 55px; 
-	 position: relative; 
-	 width: 68px;
-	 height: 78px;
-	 z-index:3;
-}
-
- #Layer1copy31
-{ 
-	 left: 300px; 
-	 top: 55px; 
+	 top: 1148px; 
 	 position: absolute; 
 	 width: 68px;
 	 height: 78px;
-	 z-index:4;
-}
+	 z-index:38;
+} 
 
  #Layer1copy4 
 { 
 	 left: 504px; 
-	 top: -20px; 
-	 position: relative; 
+	 top: 1151px; 
+	 position: absolute; 
 	 width: 68px;
 	 height: 78px;
-	 z-index:3;
+	 z-index:39;
 } 
 
  #Layer1copy5 
 { 
 	 left: 577px; 
-	 top: -95px; 
-	 position: relative; 
+	 top: 1153px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 78px;
-	 z-index:3;
+	 z-index:40;
 } 
 
  #Layer1copy9 
 { 
 	 left: 720px; 
-	 top: -168px; 
-	 position: relative; 
+	 top: 1154px; 
+	 position: absolute; 
 	 width: 68px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:41;
 } 
 
  #Layer1copy10 
 { 
 	 left: 757px; 
-	 top: -306px; 
-	 position: relative; 
+	 top: 1091px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:42;
 } 
 
  #Layer1copy11 
 { 
 	 left: 829px; 
-	 top: -379px; 
-	 position: relative; 
+	 top: 1094px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 77px;
-	 z-index:3;
+	 z-index:43;
 } 
 
  #Layer1copy12 
 { 
 	 left: 792px; 
-	 top: -396px; 
-	 position: relative; 
+	 top: 1156px; 
+	 position: absolute; 
 	 width: 67px;
 	 height: 77px;
-	 z-index:3;
-}
-#Layer1copy12:hover
-{
-alpha: 0.6;
-}
+	 z-index:44;
+} 
 
  #Layer1copy13 
 { 
 	 left: 360px; 
-	 top: -486px; 
-	 position: relative; 
+	 top: 1086px; 
+	 position: absolute; 
 	 width: 284px;
 	 height: 144px;
-	 z-index:3;
+	 z-index:45;
 } 
 
  #COUGHING24 
 { 
 	 left: 396px; 
-	 top: -677px; 
-	 position: relative; 
+	 top: 1107px; 
+	 position: absolute; 
 	 width: 63px;
 	 height: 45px;
-	 z-index:3;
+	 z-index:46;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -612,11 +572,11 @@ alpha: 0.6;
  #DIARRHEA33 
 { 
 	 left: 469px; 
-	 top: -720px; 
-	 position: relative; 
+	 top: 1107px; 
+	 position: absolute; 
 	 width: 59px;
 	 height: 49px;
-	 z-index:3;
+	 z-index:47;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 11px;
@@ -629,11 +589,11 @@ alpha: 0.6;
  #FEVER12 
 { 
 	 left: 555px; 
-	 top: -770px; 
-	 position: relative; 
+	 top: 1106px; 
+	 position: absolute; 
 	 width: 36px;
 	 height: 49px;
-	 z-index:3;
+	 z-index:48;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -647,11 +607,11 @@ alpha: 0.6;
  #MALARIA09 
 { 
 	 left: 437px; 
-	 top: -760px; 
-	 position: relative; 
+	 top: 1168px; 
+	 position: absolute; 
 	 width: 53px;
 	 height: 49px;
-	 z-index:3;
+	 z-index:49;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -665,11 +625,11 @@ alpha: 0.6;
  #VOMITING18 
 { 
 	 left: 507px; 
-	 top: -805px; 
-	 position: relative; 
+	 top: 1171px; 
+	 position: absolute; 
 	 width: 59px;
 	 height: 49px;
-	 z-index:3;
+	 z-index:50;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -683,11 +643,11 @@ alpha: 0.6;
  #STILLBORN21 
 { 
 	 left: 577px; 
-	 top: -850px; 
-	 position: relative; 
+	 top: 1171px; 
+	 position: absolute; 
 	 width: 65px;
 	 height: 48px;
-	 z-index:3;
+	 z-index:51;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -701,11 +661,11 @@ alpha: 0.6;
  #EDEMA13 
 { 
 	 left: 624px; 
-	 top: -960px; 
-	 position: relative; 
+	 top: 1108px; 
+	 position: absolute; 
 	 width: 42px;
 	 height: 49px;
-	 z-index:3;
+	 z-index:52;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -719,11 +679,11 @@ alpha: 0.6;
  #JAUNDICE09 
 { 
 	 left: 655px; 
-	 top: -945px; 
-	 position: relative; 
+	 top: 1172px; 
+	 position: absolute; 
 	 width: 59px;
 	 height: 48px;
-	 z-index:3;
+	 z-index:53;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -737,11 +697,11 @@ alpha: 0.6;
  #PNEUMONIA21 
 { 
 	 left: 685px; 
-	 top: -1050px; 
-	 position: relative; 
+	 top: 1112px; 
+	 position: absolute; 
 	 width: 72px;
 	 height: 48px;
-	 z-index:3;
+	 z-index:54;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 10px;
@@ -755,11 +715,11 @@ alpha: 0.6;
  #DISABILITY21 
 { 
 	 left: 761px; 
-	 top: -1100px; 
-	 position: relative; 
+	 top: 1112px; 
+	 position: absolute; 
 	 width: 62px;
 	 height: 48px;
-	 z-index:3;
+	 z-index:55;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -773,11 +733,11 @@ alpha: 0.6;
  #HYPOTHEMIA21 
 { 
 	 left: 721px; 
-	 top: -1085px; 
-	 position: relative; 
+	 top: 1175px; 
+	 position: absolute; 
 	 width: 63px;
 	 height: 47px;
-	 z-index:3;
+	 z-index:56;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 10px;
@@ -791,11 +751,11 @@ alpha: 0.6;
  #CLEFTPALATE21 
 { 
 	 left: 795px; 
-	 top: -1130px; 
-	 position: relative; 
+	 top: 1174px; 
+	 position: absolute; 
 	 width: 35px;
 	 height: 57px;
-	 z-index:3;
+	 z-index:57;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 10px;
@@ -809,11 +769,11 @@ alpha: 0.6;
  #CORDINFECTION 
 { 
 	 left: 840px; 
-	 top: -1256px; 
-	 position: relative; 
+	 top: 1106px; 
+	 position: absolute; 
 	 width: 46px;
 	 height: 56px;
-	 z-index:3;
+	 z-index:58;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size:10px;
@@ -827,11 +787,11 @@ alpha: 0.6;
  #NECKSTIFFNESS 
 { 
 	 left: 368px; 
-	 top: -1260px; 
-	 position: relative; 
+	 top: 1166px; 
+	 position: absolute; 
 	 width: 48px;
 	 height: 44px;
-	 z-index:3;
+	 z-index:59;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -845,31 +805,31 @@ alpha: 0.6;
  #motherssympotmpic 
 { 
 	 left: 174px; 
-	 top: -1353px; 
-	 position: relative; 
+	 top: 1093px; 
+	 position: absolute; 
 	 width: 185px;
 	 height: 98px;
-	 z-index:3;
+	 z-index:60;
 } 
 
  #highriskpic 
 { 
 	 left: 416px; 
-	 top: -1283px; 
-	 position: relative; 
+	 top: 1263px; 
+	 position: absolute; 
 	 width: 294px;
 	 height: 30px;
-	 z-index:3;
+	 z-index:61;
 } 
 
  #HighRisks 
 { 
 	 left: 446px; 
-	 top: -1310px; 
-	 position: relative; 
+	 top: 1270px; 
+	 position: absolute; 
 	 width: 79px;
 	 height: 17px;
-	 z-index:3;
+	 z-index:62;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
@@ -878,11 +838,11 @@ alpha: 0.6;
  #MothersSymptoms 
 { 
 	 left: 186px; 
-	 top: -1464px; 
-	 position: relative; 
+	 top: 1114px; 
+	 position: absolute; 
 	 width: 137px;
 	 height: 61px;
-	 z-index:3;
+	 z-index:63;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 20px;
@@ -891,22 +851,15 @@ alpha: 0.6;
  #LowRisks 
 { 
 	 left: 719px; 
-	 top: -1385px; 
-	 position: relative; 
+	 top: 1272px; 
+	 position: absolute; 
 	 width: 74px;
 	 height: 13px;
-	 z-index:3;
+	 z-index:64;
 		font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-size: 12px;
 } 
-
-
-
-
-
-
-
 
  #Layer4 
 { 
@@ -1055,7 +1008,7 @@ alpha: 0.6;
 
  #Layer1copy18 
 { 
-	 left: 232px; 
+	 left: 332px; 
 	 top: 33px; 
 	 position: absolute; 
 	 width: 626px;
@@ -1065,7 +1018,7 @@ alpha: 0.6;
 
  #PregnanciesNewBornCh 
 { 
-	 left: 143px; 
+	 left: 243px; 
 	 top: 35px; 
 	 position: absolute; 
 	 width: 788px;
@@ -1073,9 +1026,69 @@ alpha: 0.6;
 	 z-index:79;
 } 
 
+ #Layer9 
+{ 
+	 left: 138px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 295px;
+	 height: 123px;
+	 z-index:80;
+} 
+
+ #dotscopy4 
+{ 
+	 left: 145px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 77px;
+	 z-index:81;
+} 
+
+ #SubmittedPregnancies 
+{ 
+	 left: 150px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 274px;
+	 height: 69px;
+	 z-index:82;
+} 
+
+ #Layer5copy 
+{ 
+	 left: 235px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 156px;
+	 height: 81px;
+	 z-index:83;
+} 
+
+ #dotscopy5 
+{ 
+	 left: 242px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 47px;
+	 z-index:84;
+} 
+
+ #TrackingNewBornPo 
+{ 
+	 left: 247px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 39px;
+	 z-index:85;
+} 
+
  #Layer2copy8 
 { 
-	 left: 130px; 
+	 left: 430px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 106px;
@@ -1085,7 +1098,7 @@ alpha: 0.6;
 
  #Layer2copy12 
 { 
-	 left: 521px; 
+	 left: 621px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 118px;
@@ -1095,7 +1108,7 @@ alpha: 0.6;
 
  #Layer2copy14 
 { 
-	 left: 861px; 
+	 left: 961px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 95px;
@@ -1105,7 +1118,7 @@ alpha: 0.6;
 
  #Layer2copy13 
 { 
-	 left: 647px; 
+	 left: 747px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 206px;
@@ -1115,7 +1128,7 @@ alpha: 0.6;
 
  #Layer2copy11 
 { 
-	 left: 439px; 
+	 left: 539px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 77px;
@@ -1125,7 +1138,7 @@ alpha: 0.6;
 
  #Layer2copy9 
 { 
-	 left: 137px; 
+	 left: 237px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 95px;
@@ -1135,7 +1148,7 @@ alpha: 0.6;
 
  #Layer2copy10 
 { 
-	 left: 237px; 
+	 left: 337px; 
 	 top: 26px; 
 	 position: absolute; 
 	 width: 84px;
@@ -1376,28 +1389,24 @@ alpha: 0.6;
 	 z-index:109;
 } 
 
-
-
-/********************************/
-
  #handwashpic 
 { 
 	 left: 232px; 
-	 top: -1210px; 
-	 position: relative; 
+	 top: 1483px; 
+	 position: absolute; 
 	 width: 89px;
 	 height: 90px;
-	 z-index:3;
+	 z-index:110;
 } 
 
  #handwashfacilities 
 { 
 	 left: 192px; 
-	 top: -1351px; 
-	 position: relative; 
+	 top: 1441px; 
+	 position: absolute; 
 	 width: 286px;
 	 height: 25px;
-	 z-index:3;
+	 z-index:111;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
@@ -1406,11 +1415,11 @@ alpha: 0.6;
  #layer_12289 
 { 
 	 left: 340px; 
-	 top: -1316px; 
-	 position: relative; 
+	 top: 1506px; 
+	 position: absolute; 
 	 width: 127px;
 	 height: 31px;
-	 z-index:3;
+	 z-index:112;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 18px;
@@ -1424,11 +1433,11 @@ alpha: 0.6;
  #layer_10985 
 { 
 	 left: 712px; 
-	 top: -1350px; 
-	 position: relative; 
+	 top: 1506px; 
+	 position: absolute; 
 	 width: 126px;
 	 height: 31px;
-	 z-index:3;
+	 z-index:113;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 18px;
@@ -1442,11 +1451,11 @@ alpha: 0.6;
  #ToiletFacilities 
 { 
 	 left: 633px; 
-	 top: -1436px; 
-	 position: relative; 
+	 top: 1436px; 
+	 position: absolute; 
 	 width: 214px;
 	 height: 25px;
-	 z-index:3;
+	 z-index:114;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
@@ -1454,12 +1463,12 @@ alpha: 0.6;
 
  #Availabilityof 
 { 
-	 left: 440px; 
-	 top: -1500px; 
-	 position: relative; 
+	 left: 445px; 
+	 top: 1396px; 
+	 position: absolute; 
 	 width: 213px;
 	 height: 33px;
-	 z-index:3;
+	 z-index:115;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	font-size: 25px;
@@ -1468,23 +1477,13 @@ alpha: 0.6;
  #toiletpic 
 { 
 	 left: 591px; 
-	 top: -1450px; 
-	 position: relative; 
+	 top: 1475px; 
+	 position: absolute; 
 	 width: 102px;
 	 height: 102px;
-	 z-index:3;
+	 z-index:116;
 	
-}
-/***********************************/
- #Layer7copy_1 
-{ 
-	 left: 65px; 
-	 top: 1602px; 
-	 position: absolute; 
-	 width: 857px;
-	 height: 194px;
-	 z-index:4;
-}
+} 
 
  #LESSTHAN1990 
 { 
@@ -1583,9 +1582,4 @@ alpha: 0.6;
 	font-weight:lighter;
 	font-size: 15px;
 	
-}
-
-#pregnantmothers
-{
-	display: none;
-}
+} 
